@@ -7,12 +7,7 @@ function mostrar()
 
 	dato = prompt("Ingrese su nombre");
      
-	alert("Bienvenida " + dato);
-
-
-
-
-
+	alert("SOS UNA HIJA DE PUTA " + dato);
 
 }
 
